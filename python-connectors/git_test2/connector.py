@@ -4,7 +4,6 @@
 # import the base class for the custom dataset
 # Bla2
 # This change was done on remote.
-# T1
 
 from dataiku.connector import Connector
 
